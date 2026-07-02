@@ -1,1 +1,1 @@
-# DevMend Advanced E2E c20 s195 flaky_race_condition 2026-07-02T21:55:43.817Z
+# DevMend Advanced E2E c20 s196 flaky_snapshot 2026-07-02T22:01:06.661Z
