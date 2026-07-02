@@ -1,5 +1,5 @@
-def sum_items(items):
-    total = 0
+def calculate(items):
+    result = 0
     for item in items:
-        total += item
-    return total
+        result += item
+    return result
