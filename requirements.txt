@@ -1,1 +1,2 @@
-beanie
+django
+pytest
