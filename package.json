@@ -2,8 +2,8 @@
   "name": "dm-customer-20",
   "version": "1.0.0",
   "scripts": {
-    "build": "mkdir -p dist && echo 'console.log(\"ok\")' > index.jss",
-    "start": "node index.jss",
+    "build": "mkdir -p dist && echo 'console.log(\"ok\")' > index.js",
+    "start": "node index.js",
     "test": "echo ok"
   },
   "devDependencies": {
