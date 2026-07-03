@@ -5,5 +5,8 @@
     "build": "mkdir -p dist && echo 'console.log(\"ok\")' > index.jss",
     "start": "node index.jss",
     "test": "echo ok"
+  },
+  "devDependencies": {
+    "jest": "*"
   }
 }
