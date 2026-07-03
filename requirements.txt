@@ -1,1 +1,1 @@
-loguru
+python_dotenv
