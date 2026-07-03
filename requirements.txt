@@ -1,1 +1,2 @@
-torch
+pymongo
+psycopg2
