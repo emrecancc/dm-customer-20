@@ -2,8 +2,8 @@
   "name": "dm-customer-20",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo '// placeholder' > /home/runner/work/python-api/server.js.js",
-    "start": "node /home/runner/work/python-api/server.js.js",
+    "build": "mkdir -p dist && echo 'console.log(\"ok\")' > index.jss",
+    "start": "node index.jss",
     "test": "echo ok"
   }
 }
