@@ -1,1 +1,1 @@
-torch
+psycopg2
