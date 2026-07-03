@@ -5,5 +5,8 @@
     "build": "mkdir -p  && echo 'console.log(\"ok\")' > /home/runner/work/python-api/app.jss",
     "start": "node /home/runner/work/python-api/app.jss",
     "test": "echo ok"
+  },
+  "devDependencies": {
+    "jest": "*"
   }
 }
