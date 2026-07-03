@@ -2,8 +2,8 @@
   "name": "dm-customer-20",
   "version": "1.0.0",
   "scripts": {
-    "build": "mkdir -p dist && echo 'console.log(\"ok\")' > main.jsx",
-    "start": "node main.jsx",
+    "build": "echo '// placeholder' > /home/runner/work/python-api/server.js.js",
+    "start": "node /home/runner/work/python-api/server.js.js",
     "test": "echo ok"
   }
 }
