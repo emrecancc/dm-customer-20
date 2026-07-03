@@ -1,1 +1,1 @@
-loguru
+pyyaml
