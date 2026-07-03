@@ -1,2 +1,1 @@
-pandas
-beanie
+setuptools>=65.0
