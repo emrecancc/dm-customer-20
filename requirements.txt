@@ -1,1 +1,1 @@
-fastapi
+setuptools>=65.0
